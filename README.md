@@ -2,7 +2,7 @@
 
 ## Victoria Heredia 
 
-#### Repo: 2143-OOP
+#### Repo: 3013-Algorithms
 
 #### Email: vdheredia1128@my.msutexas.edu
 
