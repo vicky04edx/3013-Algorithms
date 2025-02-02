@@ -61,7 +61,7 @@ private:
 
    // Find the smallest value in a subtree (for deletion case 3)
    // Private helper function to find the minimum value in a subtree
-  Node* _findMin(Node* sub_root) {
+  Node* _findMinimum(Node* sub_root) {
     while (sub_root->left != NULL) {
       sub_root = sub_root->left;                      // Traverse to the leftmost node
     }
