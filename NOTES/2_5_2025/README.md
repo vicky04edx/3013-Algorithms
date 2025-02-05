@@ -102,8 +102,4 @@ void printT(Node *tree)
     printT(root->right);//post
     cout << root->data;
 }
-
-
-
-
-
+```
