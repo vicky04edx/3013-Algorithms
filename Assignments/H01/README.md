@@ -14,7 +14,7 @@ In this set, we will insert the values 10, 20, 30, 15, 25, 5, 35, 27 sequentiall
 
 ### Step-by-Step Insertion and Balancing
 1. Insert 10
-2. Insert 20, balance Factor of 10 = -1 (Right-heavy) → No rotation needed.
+2. Insert 20, balance Factor of 10 = -1 (Right-heavy) → *No rotation needed*
 3. Insert 30, balance Factor of 10 = -2 (Right-heavy), Balance Factor of 20 = -1 (Right-heavy), RR Rotation needed at 10 (Right-Right Case)/ Left Rotation on 10
 4. Insert 15, balance Factor of 20 = 1 (Left-heavy) → *No rotation needed*
 5. Insert 25, balance Factor of 30 = 1 (Left-heavy) → *No rotation needed*
