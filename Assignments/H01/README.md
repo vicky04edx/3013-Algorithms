@@ -27,6 +27,6 @@ In this set, we will insert the values 10, 20, 30, 15, 25, 5, 35, 27 sequentiall
 ### Conclusion
 This insertion sequence required:
 
-One single right rotation (RR) at 10 to correct a Right-Right imbalance.
+- One single right rotation (RR) at 10 to correct a Right-Right imbalance.
 
-The AVL Tree remains balanced, ensuring O(log n) height for efficient search operations.
+- The AVL Tree remains balanced, ensuring O(log n) height for efficient search operations.
