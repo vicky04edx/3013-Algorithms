@@ -19,7 +19,7 @@ In this set, we will insert the values 10, 20, 30, 15, 25, 5, 35, 27 sequentiall
 4. Insert 15, balance Factor of 20 = 1 (Left-heavy) → *No rotation needed*
 5. Insert 25, balance Factor of 30 = 1 (Left-heavy) → *No rotation needed*
 6. Insert 5, balance Factor of 10 = 1 (Left-heavy) → *No rotation needed*
-7. Insert 35, balance Factor of 30 = 0 → No rotation needed
+7. Insert 35, balance Factor of 30 = 0 → *No rotation needed*
 8. Insert 27, balance Factor of 30 = 1 (Left-heavy) → *No rotation needed*
 
 <img src=AVL_TREE_SET1.png width=300>
