@@ -23,3 +23,10 @@ In this set, we will insert the values 10, 20, 30, 15, 25, 5, 35, 27 sequentiall
 8. Insert 27, Balance Factor of 30 = 1 (Left-heavy) → No rotation needed
 
 <img src=AVL_TREE_SET1.png width=300>
+
+### Conclusion
+This insertion sequence required:
+
+One single right rotation (RR) at 10 to correct a Right-Right imbalance.
+
+The AVL Tree remains balanced, ensuring O(log n) height for efficient search operations.
