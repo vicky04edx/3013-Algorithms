@@ -1,6 +1,8 @@
 ## H02 - Hashing Homework
 ### Victoria Heredia
-### Description:
+### Description: 
+
+This homework explores concepts related to open and closed hashing, demonstrating their implementation through diagrams for given sets of numbers. Part A consists of answering eight conceptual questions and comparing different hashing techniques. Part B involves creating diagrams to illustrate these techniques using given sets of numbers.
 
 ### Files
 

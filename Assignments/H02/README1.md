@@ -29,7 +29,7 @@ Double Hashing: It uses two hash functions to create two different hash values f
 
 Open Hashing (Chaining) can handle more values than the number of slots in the hash table because, even if a slot is occupied, multiple values can be stored in the same bucket using a linked list (or another data structure like a binary search tree). This allows the table to store more elements than its initial size, as each bucket can grow dynamically to accommodate additional values.
 
-#### 6. What is the worst performance (big oh) for each type of collision resolution technique? 
+#### 6. What is the worst performance (big O) for each type of collision resolution technique? 
 
 Open hashing has a worst-case time complexity of O(n). This means that if many keys hash to the same location, they create a long linked list. In this situation, you must go through the entire list to search, insert, or delete an element. Closed hashing also has a worst-case time complexity of O(n). This occurs when several collisions happen, forcing you to check nearly all the table slots before finding an empty spot for insertion or the element you want to search for. Even though both methods can take O(n) time in the worst case, open hashing is usually more efficient when there are fewer items to store. The linked lists in open hashing allow for easier insertions and deletions. In contrast, closed hashing becomes less efficient as the table fills up, making it harder to resolve collisions.
 
@@ -43,3 +43,7 @@ The size of a table affects how well keys are spread out. Choosing the right siz
 Some of the pitfalls of using poor table size are that it can increase collisions, can cause poor distribution in division hashing, and Issues with Power of 2 Table Sizes. Power-of-2 table sizes are particularly problematic because they cause the hash function to rely only on the lower bits of keys, leading to clustering. Choosing a prime number for the table size helps distribute keys more evenly and reduces the likelihood of collisions.
 
 #### Sources: 
+1. https://www.geeksforgeeks.org/hash-table-data-structure/
+2. https://programming.guide/hash-tables-open-vs-closed-addressing.html
+3. https://www.geeksforgeeks.org/collision-resolution-techniques/
+4. https://www.youtube.com/watch?v=knV86FlSXJ8&t=10s
