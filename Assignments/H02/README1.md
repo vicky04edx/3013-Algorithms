@@ -1,3 +1,4 @@
+### Victoria Heredia
 ## Part A: Conceptual Questions
 ### Define Hashing and Collision Resolution
 #### 1. What is a hash table and why is collision resolution necessary?

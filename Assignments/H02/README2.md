@@ -1,4 +1,5 @@
-### Part B: Simulation and Diagram Exercises
+### Victoria Heredia
+## Part B: Simulation and Diagram Exercises
 #### Exercise 1: Open Hashing (Separate Chaining)
 Given the following set of keys:
 
