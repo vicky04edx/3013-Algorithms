@@ -48,3 +48,4 @@ Some of the pitfalls of using poor table size are that it can increase collision
 2. https://programming.guide/hash-tables-open-vs-closed-addressing.html
 3. https://www.geeksforgeeks.org/collision-resolution-techniques/
 4. https://www.youtube.com/watch?v=knV86FlSXJ8&t=10s
+5. Power Point Presentation from https://github.com/rugbyprof/3013-Algorithms/blob/master/Lectures/Hashing/Hashing_Feb_16_2021.pptx
