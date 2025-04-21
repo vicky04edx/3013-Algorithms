@@ -84,7 +84,7 @@ Can you think of a real-life situation where a convex hull naturally forms? (Hin
 Video](https://www.youtube.com/watch?v=s39TMgSvRP0)
 - [Quickhull Algorithm YouTub 
 Video](https://www.youtube.com/watch?v=2EKIZrimeuk)
-- [Understanding Convex Hull Algorithms: A Comprehensive Guide] (https://algocademy.com/blog/understanding-convex-hull-algorithms-a-comprehensive-guide/)
+- [Understanding Convex Hull Algorithms: A Comprehensive Guide](https://algocademy.com/blog/understanding-convex-hull-algorithms-a-comprehensive-guide/)
 - [QuickHull Algorithm GeeksforGeeks](https://www.geeksforgeeks.org/quickhull-algorithm-convex-hull/)
 
 ---
