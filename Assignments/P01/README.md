@@ -99,5 +99,5 @@ Victoria Heredia
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [Convex Hull Presentation](./Convex_Hull_Presentation) | Canva Presentation |
+|   1   | [Convex Hull Presentation](./Convex_Hull_Presentation.pdf) | Canva Presentation |
 |   2   | [Handout](./Convex_Hull_Questions.pdf) | Questions regarding Convex Hull Algorithms |
