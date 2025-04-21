@@ -86,7 +86,7 @@ Video](https://www.youtube.com/watch?v=s39TMgSvRP0)
 Video](https://www.youtube.com/watch?v=2EKIZrimeuk)
 - [Understanding Convex Hull Algorithms: A Comprehensive Guide](https://algocademy.com/blog/understanding-convex-hull-algorithms-a-comprehensive-guide/)
 - [QuickHull Algorithm GeeksforGeeks](https://www.geeksforgeeks.org/quickhull-algorithm-convex-hull/)
-
+- ChatGPT
 ---
 
 **Authored by:**  
