@@ -19,9 +19,9 @@ This assignment's README file contains multiple photos from three presentations 
 
 |                              PRESENTATION AND POSTER NUMBER THREE      |
 | :------------------------------------------------------------------------: |
-|  <img src="presentation3.jpg" width="400"> <img src="poster2.jpg" width="400">  |
+|  <img src="presentation3.jpg" width="400"> |
 | New Data From Old Rocks: The Highway 77 Exposure of The Woodford Shale, Arbuckle Mountains, Oklahoma |
 
-|                              Rykit, Ashley and Myself   |
+|                              Rykir, Ashley and Myself   |
 | :------------------------------------------------------------------------: |
 |  <img src="smiles.jpg" width="400">   |
