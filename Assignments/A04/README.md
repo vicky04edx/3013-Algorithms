@@ -6,5 +6,22 @@ This assignment's README file contains multiple photos from three presentations 
 
 |                              PRESENTATION AND POSTER NUMBER ONE       |
 | :------------------------------------------------------------------------: |
-|  <img src="presentation1.jpg" width="400">   |
-| Exploring the Relationship Betweeb Physical Activity and Stress Levels Among International Graduate Students presented by Sabina Poudel|
+|  <img src="presentation1.jpg" width="400"> <img src="poster1.jpg" width="400">    |
+| Exploring the Relationship Between Physical Activity and Stress Levels Among International Graduate Students |
+
+
+
+|                              PRESENTATION AND POSTER NUMBER TWO       |
+| :------------------------------------------------------------------------: |
+|  <img src="presentation2.jpg" width="400"> <img src="poster2.jpg" width="400">  |
+| The Effect of 6-Weeks of Yoga Training on Measures of Health & Performance in Sedentary Individuals |
+
+
+|                              PRESENTATION AND POSTER NUMBER THREE      |
+| :------------------------------------------------------------------------: |
+|  <img src="presentation3.jpg" width="400"> <img src="poster2.jpg" width="400">  |
+| New Data From Old Rocks: The Highway 77 Exposure of The Woodford Shale, Arbuckle Mountains, Oklahoma |
+
+|                              Rykit, Ashley and Myself   |
+| :------------------------------------------------------------------------: |
+|  <img src="smiles.jpg" width="400">   |
