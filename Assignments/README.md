@@ -6,6 +6,6 @@
 |  2  | [H01](./H01)      | AVL Tree     |
 |  3  | [H02](./H02)      | Hashing Homework    |
 |  4  | [P01](./P01)      | Convex Hull Presentation   |
-|  4  | [A04](./A04)      | Celebration of Scholarships Presentations   |
+|  5  | [A04](./A04)      | Celebration of Scholarships Presentations   |
 
 
